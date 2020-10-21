@@ -8,3 +8,4 @@ requests==2.24.0
 spacy==2.3.2
 streamlit==0.69.2
 textblob==0.15.3
+toml==0.10.1
